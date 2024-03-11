@@ -1,0 +1,1 @@
+The purpose of these projects is to identify the sentiment of tweets concerning the greek government elections using LogisticRegression,FeedForward Neural Networks and Recurrent Neural Networks(BERT soon to be added).
